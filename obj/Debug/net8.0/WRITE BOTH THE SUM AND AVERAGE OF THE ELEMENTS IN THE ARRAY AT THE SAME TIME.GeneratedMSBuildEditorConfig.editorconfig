@@ -1,0 +1,15 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WRITE_BOTH_THE_SUM_AND_AVERAGE_OF_THE_ELEMENTS_IN_THE_ARRAY_AT_THE_SAME_TIME
+build_property.ProjectDir = D:\works\WRITE BOTH THE SUM AND AVERAGE OF THE ELEMENTS IN THE ARRAY AT THE SAME TIME\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

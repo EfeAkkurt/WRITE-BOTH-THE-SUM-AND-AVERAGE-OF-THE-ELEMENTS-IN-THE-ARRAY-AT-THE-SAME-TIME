@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WRITE BOTH THE SUM AND AVERAGE OF THE ELEMENTS IN THE ARRAY AT THE SAME TIME/1.0.0": {
+        "runtime": {
+          "WRITE BOTH THE SUM AND AVERAGE OF THE ELEMENTS IN THE ARRAY AT THE SAME TIME.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WRITE BOTH THE SUM AND AVERAGE OF THE ELEMENTS IN THE ARRAY AT THE SAME TIME/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
